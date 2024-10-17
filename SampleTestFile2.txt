@@ -1,1 +1,4 @@
+Git Reset the 2
+ 
+
 This is Sample File 1
