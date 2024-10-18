@@ -1,4 +1,9 @@
+Testing reset Commit 1
 This is Sample File 1
+<<<<<<< HEAD
 
 Robotics is the interdisciplinary study and practice of the design, construction, operation, and use of robots. Within mechanical engineering, robotics is the design and construction of the physi
 
+=======
+This is Comparion lecture
+>>>>>>> main
