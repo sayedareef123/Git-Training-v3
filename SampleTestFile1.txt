@@ -7,3 +7,4 @@ Robotics is the interdisciplinary study and practice of the design, construction
 =======
 This is Comparion lecture
 >>>>>>> main
+This is Stash lecture, Change in File1
